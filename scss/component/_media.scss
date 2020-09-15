@@ -5,11 +5,11 @@
 
     .container {
       max-width: 1400px;
-      @include dmp;
+      @include dmm;
     }
     
     .centered {
-      @include dmp;
+      @include dmm;
     }
     
     .row {

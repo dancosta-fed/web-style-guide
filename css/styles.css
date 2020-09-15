@@ -158,14 +158,14 @@
   .container {
     max-width: 1400px;
     display: block;
-    margin: auto;
-    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .centered {
     display: block;
-    margin: auto;
-    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .row {
@@ -260,8 +260,8 @@
 .img-avatar {
   display: block;
   display: block;
-  margin: auto;
-  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 10px;
   max-width: 100%;
   max-height: 100%;
@@ -269,8 +269,8 @@
 
 .img-frame {
   display: block;
-  margin: auto;
-  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 10px;
   max-width: 100%;
   padding: 13px;
@@ -279,8 +279,8 @@
 
 .img-logo {
   display: block;
-  margin: auto;
-  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
