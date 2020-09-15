@@ -1,0 +1,11 @@
+@mixin dmp {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+
+@mixin mmw {
+    margin-top: 10px;
+    max-width: 100%;
+}
