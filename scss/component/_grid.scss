@@ -19,7 +19,10 @@
     padding: 10px;
     border-radius: $bradius;
   }
-  
+ 
+// === I've tried a different approach to the grid and colors. I just wanted to use what I've learnt with @for. // 
+// That's why the colors won't match the original project. I hope that's okay and you understand where I'm coming from. === // 
+
 @for $i from 1 through 12 {
   .theme.col-#{$i} {
     background-color: adjust-hue($color-info, $i * 20);

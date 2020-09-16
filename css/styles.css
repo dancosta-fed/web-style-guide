@@ -10,6 +10,9 @@
   text-transform: uppercase;
   border-radius: 5px;
 }
+.btn:hover {
+  background-color: #99edd9;
+}
 
 .default {
   background-color: #51ddfc;

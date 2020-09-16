@@ -20,7 +20,7 @@
         color .2s ease-in-out;
         
         &:hover {
-          color: #fff;
+          color: $white;
           background-color: lighten($color-primary, 15%);
         }
     
